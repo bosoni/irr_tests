@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test.vcxproj", "{81D9695B-7968-4354-80AC-CF59344CE9EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestGLES20", "TestGLES20.vcxproj", "{9B89823C-8440-410F-954F-9E9C29595073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D9695B-7968-4354-80AC-CF59344CE9EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81D9695B-7968-4354-80AC-CF59344CE9EE}.Debug|Win32.Build.0 = Debug|Win32
+		{81D9695B-7968-4354-80AC-CF59344CE9EE}.Release|Win32.ActiveCfg = Release|Win32
+		{81D9695B-7968-4354-80AC-CF59344CE9EE}.Release|Win32.Build.0 = Release|Win32
+		{9B89823C-8440-410F-954F-9E9C29595073}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B89823C-8440-410F-954F-9E9C29595073}.Debug|Win32.Build.0 = Debug|Win32
+		{9B89823C-8440-410F-954F-9E9C29595073}.Release|Win32.ActiveCfg = Release|Win32
+		{9B89823C-8440-410F-954F-9E9C29595073}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,5 +1,5 @@
 irrlicht tests
-by mjt, 2014 [mixut@hotmail.com]
+by mjt, 2014
 
 Release/Test.exe		compiled tests
 
